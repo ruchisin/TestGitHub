@@ -1,2 +1,4 @@
 # TestGitHub
-GitHub tutorial
+
+TestGitHub is a repository for test purpose.
+
